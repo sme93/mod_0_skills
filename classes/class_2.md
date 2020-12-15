@@ -5,7 +5,7 @@
 - totalPrice (integer)
 -  tableNumber (integer)
 
-####Methods
+#### Methods
 - addBeverageToOrder (adds beverage to beverages array) updates beverages attribute
 - addEntree (adds entree to order) updates entree attribute
 - getTotal (adds price of all items on receipts, returns total price) uses totalPrice attribute
