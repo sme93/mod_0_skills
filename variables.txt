@@ -1,0 +1,11 @@
+var food = "spaghetti";
+var is_delicious = true;
+food = "pizza";
+var num2 = 7;
+var num7 = 2;
+var quotient = num7 / num2;
+var songs = ["Oliver's Army","Green Shirt","Peace, Love and Understanding"];
+var output = songs.slice(1,3);
+console.log(output);
+food.length;
+console.log(food.length);
