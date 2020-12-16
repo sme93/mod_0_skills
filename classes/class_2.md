@@ -3,7 +3,7 @@
 - beverages (array)
 - entree (string)
 - totalPrice (integer)
--  tableNumber (integer)
+- tableNumber (integer)
 
 #### Methods
 - addBeverageToOrder (adds beverage to beverages array) updates beverages attribute

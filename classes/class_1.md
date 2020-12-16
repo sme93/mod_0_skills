@@ -1,4 +1,4 @@
-## Desserts
+## Dessert
 #### Attributes
 - isLowFat (boolean)
 - price (integer)
