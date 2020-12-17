@@ -1,12 +1,12 @@
 ## Dessert
 #### Attributes
-- isLowFat (boolean)
+- isInStock (boolean)
 - price (integer)
 - pairsWith (array)
 - name (string)
 
 #### Methods
-- checkFatContent (returns true or false depending on if there is fewer than 3 grams of fat per calorie) updates isLowFat attribute
+- checkInventoryForItem (returns true or false depending on if item is in stock) updates isInStock attribute
 - putItemOnSale (takes price of product and multiplies it by 10%) updates price attribute
 - pairsWithWinesOrdered (checks to see if dessert will pair with certain in stock wines) compares pairsWith attribute
 - updateName (changes value of dessert name) updates name attribute

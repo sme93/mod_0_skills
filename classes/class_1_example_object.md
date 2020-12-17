@@ -1,11 +1,11 @@
 ## germanChocolateCake (instance name)
 #### Attributes
-- isLowFat = false
+- isInStock = true
 - price = 9.99
 - pairsWith ["Red Wine", "Brandy"]
 - name "German Chocolate Cake"
 #### Methods
-- checkFatContent = checks nutritional content label to see if there is fewer than 3 grams of fat per calorie = returns false
+- checkInventoryForItem = checks to see if item is in stock, returns true
 - putItemOnSale = (9.99 * .10)
 - pairsWithWinesOrdered = checks to see if Red Wine and Brandy are in stock, returns true
 - updateName = updates "German Chocolate Cake" to "Holiday Special German Chocolate Cake"
